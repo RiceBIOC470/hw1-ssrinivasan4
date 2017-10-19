@@ -1,3 +1,18 @@
+GB comments:
+Prob1: 100%
+Prob2:
+P1:100
+P2: 50 Did not find the longest ORF within frame of a start codon. 
+P3:100
+P4:100
+P5:100 
+Prob3
+P1: 100
+P2:100
+P3:100 
+Overall: 94
+
+
 % Homework 1. Due before class on 9/5/17
 
 %Sanjana Srinivasan
